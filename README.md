@@ -16,7 +16,9 @@ check out the live version of my portfolio [here](https://radityaprakash.netlify
 here's how i did the animation thingy
 
 1.Take a still video of your head moving in each direction (Top , Bottom , Left , Right )
+
 2.Save 5 or more frames/snapshots from the video in each direction.
+
 3.Now you have a total of 20 frames/images, 5 of each direction.
 4.Using < a href= "https://www.remove.bg/"> </a> remove background of all the images.
 5.Give b/w sketchy look to all the images using <a href ="https://goart.fotor.com/"> </a>
