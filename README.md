@@ -4,7 +4,7 @@ Welcome to my portfolio website! This repository contains the source code for my
 
 <h2>Live Demo</h2>
 
-check out the live version of my portfolio < a id="here" href="https://radityaprakash.netlify.app/" > here </a>
+check out the live version of my portfolio [here] (https://radityaprakash.netlify.app/).
 
 <h2> Technologies Used </h2>
 
