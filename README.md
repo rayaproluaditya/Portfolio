@@ -20,9 +20,13 @@ here's how i did the animation thingy
 2.Save 5 or more frames/snapshots from the video in each direction.
 
 3.Now you have a total of 20 frames/images, 5 of each direction.
+
 4.Using < a href= "https://www.remove.bg/"> </a> remove background of all the images.
-5.Give b/w sketchy look to all the images using <a href ="https://goart.fotor.com/"> </a>
+
+5.Give b/w sketchy look to all the images using <a1 href ="https://goart.fotor.com/"> </a1>
+
 6.Remove background of all the sketch images. now you have ready to use images to use in your animation.
+
 7.You can use Animation , Transistion properties to mimic an animation/video like effect.
 
 <h2>Features</h2>
@@ -47,4 +51,4 @@ cd Portfolio
 If you have suggestions or improvements, feel free to fork the repository and submit a pull request.
 
 <h2>Contact</h2>
-You can reach me at adityarayaprolu2005@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/rayaprolu-aditya-prakash-224609203?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app).
+You can reach me at adityarayaprolu2005@gmail.com or connect with me on [here](https://www.linkedin.com/in/rayaprolu-aditya-prakash-224609203?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app).
