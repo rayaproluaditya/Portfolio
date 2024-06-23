@@ -47,4 +47,4 @@ cd Portfolio
 If you have suggestions or improvements, feel free to fork the repository and submit a pull request.
 
 <h2>Contact</h2>
-You can reach me at adityarayaprolu2005@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/rayaprolu-aditya-prakash-224609203?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+You can reach me at adityarayaprolu2005@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/rayaprolu-aditya-prakash-224609203?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app).
