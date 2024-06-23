@@ -36,7 +36,8 @@ here's how i did the animation thingy
 * Projects: Showcase of my projects with descriptions and links to the live demos and source code.
 * Contact: Form to get in touch with me directly.
   
-<b>Getting Started </b>
+<h2>Getting Started </h2>
+
 To run this project locally:
 
 1. Clone the repository:
