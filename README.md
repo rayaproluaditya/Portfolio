@@ -23,7 +23,7 @@ here's how i did the animation thingy
 
 4.Using < a href= "https://www.remove.bg/"> </a> remove background of all the images.
 
-5.Give b/w sketchy look to all the images using <a1 href ="https://goart.fotor.com/"> </a1>
+5.Give b/w sketchy look to all the images using <a href ="https://goart.fotor.com/">goart </a>
 
 6.Remove background of all the sketch images. now you have ready to use images to use in your animation.
 
