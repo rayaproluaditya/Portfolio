@@ -35,7 +35,7 @@ here's how i did the animation thingy
 * About: Detailed information about my background, skills, and interests.
 * Projects: Showcase of my projects with descriptions and links to the live demos and source code.
 * Contact: Form to get in touch with me directly.
-* 
+  
 <b>Getting Started </b>
 To run this project locally:
 
