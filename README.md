@@ -9,4 +9,4 @@ check out the live version of my portfolio [here](https://radityaprakash.netlify
 <h2> Technologies Used </h2>
 
 - <b>HTML</b> : Structure of the web pages
-*<b> CSS </b> : Styling and layout
+-<b> CSS </b> : Styling and layout
