@@ -41,11 +41,11 @@ here's how i did the animation thingy
 To run this project locally:
 
 1. Clone the repository:
-'git clone :
-https://github.com/rayaproluaditya/Portfolio'
+'''git clone :
+https://github.com/rayaproluaditya/Portfolio'''
 2. Navigate to the project directory:
 
-'cd Portfolio'
+'''cd Portfolio'''
 
 3. Open index.html in your preferred web browser.
 <h2>Folder Structure</h2>
