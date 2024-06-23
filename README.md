@@ -46,10 +46,12 @@ git clone :
 cd Portfolio
 3. Open index.html in your preferred web browser.
 <h2>Folder Structure</h2>
-- css/pics: Contains images and other assets used in the portfolio.
-- css/: Stylesheets for the website.
-- js/: JavaScript files for interactive elements.
-- index.html: Main HTML file.
+
++ css/pics: Contains images and other assets used in the portfolio.
++ css/: Stylesheets for the website.
++ js/: JavaScript files for interactive elements.
++ index.html: Main HTML file.
+  
 <h2>Contributing</h2>
 If you have suggestions or improvements, feel free to fork the repository and submit a pull request.
 
