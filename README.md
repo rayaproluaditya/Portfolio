@@ -30,7 +30,7 @@ here's how i did the animation thingy
 7.You can use Animation , Transistion properties to mimic an animation/video like effect.
 
 <h2>Features</h2>
-- Home: Introduction and overview of who I am.
+* Home: Introduction and overview of who I am.
 - About: Detailed information about my background, skills, and interests.
 - Projects: Showcase of my projects with descriptions and links to the live demos and source code.
 - Contact: Form to get in touch with me directly.
