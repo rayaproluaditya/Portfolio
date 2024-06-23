@@ -1,0 +1,155 @@
+/* LIGHT MODE */
+
+body:after {
+    position: absolute;
+    width: 0;
+    height: 0;
+    overflow: hidden;
+    z-index: -1;
+    content: url(pics/pic1\ .jpg)
+      url(pics/pic2.jpg)
+      url(pics/pic3.jpg)
+      url(pics/pic4.jpg)
+      url(pics/pic5.jpg)
+      url(pics/pic1\ .jpg)
+      url(pics/pic2.jpg)
+      url(pics/pic3.jpg)
+      url(pics/pic4.jpg)
+      url(pics/pic5.jpg)
+      url(pics//pic1\ .jpg)
+      url(pics/pic2.jpg)
+      url(pics/pic3.jpg)
+      url(pics/pic4.jpg)
+      url(pics/pic5.jpg)
+      url(pics/pic1\ .jpg)
+      url(pics/pic2.jpg)
+      url(pics/pic3.jpg)
+      url(pics/pic4.jpg)
+      url(pics/pic5.jpg)
+      url(pics/pic1\ .jpg)
+      url(pics/pic2.jpg)
+      url(pics/pic3.jpg)
+      url(pics/pic4.jpg)
+      url(pics/pic5.jpg)
+      url(pics/pic1\ .jpg)
+      url(pics/pic2.jpg)
+      url(pics/pic3.jpg)
+      url(pics/pic4.jpg)
+      url(pics/pic5.jpg)
+      url(pics/pic1\ .jpg)
+      url(pics/pic2.jpg)
+      url(pics/pic3.jpg)
+      url(pics/pic4.jpg)
+      url(pics/pic5.jpg)
+      url(pics/pic1\ .jpg)
+      url(pics/pic2.jpg)
+      url(pics/pic3.jpg)
+      url(pics/pic4.jpg)
+      url(pics/pic5.jpg);
+  }
+  
+  :root {
+    /* Colors */
+    --bg: #fff;
+    --bg-alt: #333;
+    --bg-alt-2: #f0f0f0;
+    --bg-transparent: #ffffffe8;
+    --border: 0.01rem solid #333;
+    --text: #333;
+    --text-alt: #fff;
+  
+    /* Face animations */
+    --tl-1: url(pics/pic1\ .jpg);
+    --tl-2: url(pics/pic2.jpg);
+    --tl-3: url(pics/pic3.jpg);
+    --tl-4: url(pics/pic4.jpg);
+    --tl-5: url(pics/pic5.jpg);
+  
+    --tr-1: url(pics/pic1\ .jpg);
+    --tr-2: url(pics/pic2.jpg);
+    --tr-3: url(pics/pic3.jpg);
+    --tr-4: url(pics/pic4.jpg);
+    --tr-5: url(pics/pic5.jpg);
+  
+    --bl-1: url(pics/pic1\ .jpg);
+    --bl-2: url(pics/pic2.jpg);
+    --bl-3: url(pics/pic3.jpg);
+    --bl-4: url(pics/pic4.jpg);
+    --bl-5: url(pics/pic5.jpg);
+  
+    --br-1: url(pics/pic1\ .jpg);
+    --br-2: url(pics/pic2.jpg);
+    --br-3: url(pics/pic3.jpg);
+    --br-4: url(pics/pic4.jpg);
+    --br-5: url(pics/pic5.jpg);
+  
+    --sun: url(pics/sun.png);
+  }
+  
+  /* DARK MODE */
+  
+  :root.dark-mode {
+    --bg: #202124;
+    --bg-alt: #3c3d40;
+    --bg-alt-2: #333;
+    --bg-transparent: #333333f5;
+    --border: 0.01rem solid #5a5a5a;
+    --text: #fff;
+  
+    --tl-1: url(pics/pic1\ .jpg);
+    --tl-2: url(pics/pic2.jpg);
+    --tl-3: url(pics/pic3.jpg);
+    --tl-4: url(pics/pic4.jpg);
+    --tl-5: url(pics/pic5.jpg);
+  
+    --tr-1: url(pics/pic1\ .jpg);
+    --tr-2: url(pics/pic2.jpg);
+    --tr-3: url(pics/pic3.jpg);
+    --tr-4: url(pics/pic4.jpg);
+    --tr-5: url(pics/pic5.jpg);
+  
+    --bl-1: url(pics/pic1\ .jpg);
+    --bl-2: url(pics/pic2.jpg);
+    --bl-3: url(pics/pic3.jpg);
+    --bl-4: url(pics/pic4.jpg);
+    --bl-5: url(pics/pic5.jpg);
+  
+    --br-1: url(pics/pic1\ .jpg);
+    --br-2: url(pics/pic2.jpg);
+    --br-3: url(pics/pic3.jpg);
+    --br-4: url(pics/pic4.jpg);
+    --br-5: url(pics/pic5.jpg);
+  
+    
+    --moon: url(pics/moon.png);
+  }
+  
+  /* COLOR MODE TOGGLE BUTTON */
+  
+  #color-mode {
+    background: var(--bg-alt-2);
+    height: 2.75rem;
+    width: 4rem;
+    border-radius: 3rem;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  
+  #toggle-button {
+    background-image: var(--sun);
+    background-size: cover;
+    cursor: pointer;
+  }
+  
+  .dark-mode #toggle-button {
+    background-image: var(--moon);
+  }
+  
+  .dark-mode #color-mode {
+    justify-content: flex-end;
+  }
